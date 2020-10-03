@@ -1,0 +1,4 @@
+# Ignore application configuration
+node_modules
+yarn-debug.log*
+.yarn-integrity
